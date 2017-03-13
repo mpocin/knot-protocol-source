@@ -30,6 +30,7 @@
 #define KNOT_SCHEMA_EMPTY			-14
 #define KNOT_INVALID_CREDENTIAL			-15
 #define KNOT_CREDENTIAL_UNAUTHORIZED		-16
+#define KNOT_INVALID_CONFIG			-17 /* Invalid configuration parameters */
 
 // Each KNoT Device or user has a unique ID and token as identification
 // mechanism
